@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FacebookWrapperSample</string>
+    <string name="facebook_app_id">325971548898443</string>
+    <string name="fb_login_protocol_scheme">fb325971548898443</string>
+</resources>
